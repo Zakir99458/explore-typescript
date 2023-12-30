@@ -6,4 +6,4 @@ const person: number[] = [10,22,55];
 
 type Student = {name: string, age: number};
 
-const student: Student = {name: "Zakir", age: 40}
+const student: Student = {name: "Zakir", age: 40};
